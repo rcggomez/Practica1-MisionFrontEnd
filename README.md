@@ -20,7 +20,7 @@ Caso: Abogabot
 ## Actividades:
 
 * Toma de Requerimientos: https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/Requerimentos%20Abogabot.doc
-..* Buyer Persona: https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/Buyer-Persona.md
+* Buyer Persona: https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/Buyer-Persona.md
 * Publico Objetivo: https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/Publico-Objetivo.md
 * Wireframe UX-UI: https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/WireframeUX-UI.md
 
