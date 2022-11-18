@@ -1,9 +1,9 @@
 # Estructura de ABOGABOT
 
-	Wireframe de Abogabot
+Wireframe de Abogabot
 	![alt text](https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/wireframe.png?raw=true)
 	
-	UX de Abogabot
+UX de Abogabot
 	![alt text](https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/UX.png?raw=true)
 
 ## link en miro
