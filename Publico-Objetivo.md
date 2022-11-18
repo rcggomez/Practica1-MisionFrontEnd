@@ -6,6 +6,6 @@ Para nuestro proyecto estas serían las características de nuestro público:
 ![alt text](https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/Publico%20objetivo.png?raw=true) 
 
 ## link en miro
-https://miro.com/app/board/uXjVPCLE8dw=/?share_link_id=425851772641
+https://miro.com/app/board/uXjVPCLE8dw=/?share_link_id=61349708514
 
 
