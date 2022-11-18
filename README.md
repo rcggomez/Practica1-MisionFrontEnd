@@ -1,7 +1,8 @@
-Practica1.MisionFrontEnd
-..Toma de requerimientos / Wireframe UX-UI / Publico Objetivo / Buyer Person
+# Practica1.MisionFrontEnd
+Toma de requerimientos / Wireframe UX-UI / Publico Objetivo / Buyer Person
 
-Caso: Abogabot 
+Caso: Abogabot
+
 ![alt text](https://github.com/rcggomez/Practica1-MisionFrontEnd/blob/main/1.png?raw=true) 
 
 Descripción:
