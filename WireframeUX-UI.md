@@ -1,7 +1,8 @@
-Estructura de 
+# Estructura de ABOGABOT
 
 	Wireframe de Abogabot
 	UI de Abogabot
 
+## link en miro
 
-https://miro.com/app/board/uXjVPCKsMFs=/?share_link_id=520927057496
+https://miro.com/app/board/uXjVPCLE8dw=/?share_link_id=61349708514
